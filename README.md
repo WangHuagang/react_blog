@@ -7,7 +7,7 @@
 
 ## 技术栈
 
-- 博客前端： React Hooks + Next + Ant Design + Axios  [git仓库-https://github.com/WangHuagang/react_blog_front](https://github.com/WangHuagang/react_blog_front)
+- 博客前端： React Hooks + Ant Design + Axios  [git仓库-https://github.com/WangHuagang/react_blog_front](https://github.com/WangHuagang/react_blog_front)
 - 博客管理端： React + Next + Ant Design + Axios (SSR服务端渲染)  [git仓库-https://github.com/WangHuagang/react_blog_admin)](https://github.com/WangHuagang/react_blog_admin)
 - 博客服务端： Node.js + Egg + Mysql  [git仓库-https://github.com/WangHuagang/react_blog_service](https://github.com/WangHuagang/react_blog_service)
 
